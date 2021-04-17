@@ -15,6 +15,7 @@
 		24C04DB4262AC5EB003C3860 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C04DB3262AC5EB003C3860 /* ComplicationController.swift */; };
 		24C04DB6262AC5EB003C3860 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24C04DB5262AC5EB003C3860 /* Assets.xcassets */; };
 		24C04DB9262AC5EB003C3860 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24C04DB8262AC5EB003C3860 /* Preview Assets.xcassets */; };
+		24C04DCC262AC7A5003C3860 /* TempoScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C04DCB262AC7A5003C3860 /* TempoScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		24C04DB5262AC5EB003C3860 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24C04DB8262AC5EB003C3860 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		24C04DBA262AC5EB003C3860 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24C04DCB262AC7A5003C3860 /* TempoScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempoScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				24C04DB5262AC5EB003C3860 /* Assets.xcassets */,
 				24C04DBA262AC5EB003C3860 /* Info.plist */,
 				24C04DB7262AC5EB003C3860 /* Preview Content */,
+				24C04DCB262AC7A5003C3860 /* TempoScreen.swift */,
 			);
 			path = "Multitempo WatchKit Extension";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				24C04DB0262AC5EB003C3860 /* ContentView.swift in Sources */,
+				24C04DCC262AC7A5003C3860 /* TempoScreen.swift in Sources */,
 				24C04DB2262AC5EB003C3860 /* MultitempoApp.swift in Sources */,
 				24C04DB4262AC5EB003C3860 /* ComplicationController.swift in Sources */,
 			);
